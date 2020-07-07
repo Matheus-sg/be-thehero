@@ -10,10 +10,10 @@ O Projeto foi desenvolvido e guiado pelo [Diego Fernandes](https://github.com/di
 
 ### Imagens
 <p align="center">
-    <img alt="" title="" src="gotimg/print.png">
+    <img alt="" title="" src="gitimg/print.png">
     <img alt="" title="" src="gitimg/print2.png">
     <img alt="" title="" src="gitimg/print3.png">
-    <img alt="" title="" src="gotimg/print4.png">
+    <img alt="" title="" src="gitimg/print4.png">
 </p>
 
 
